@@ -1,3 +1,7 @@
+body {
+  background-color: aquamarine;
+}
+
 .App h1 {
   text-align: center;
   margin-bottom: 20px;
