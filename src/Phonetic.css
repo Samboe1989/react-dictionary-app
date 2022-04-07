@@ -5,12 +5,15 @@
   border-radius: 20px;
   transition: all 150ms ease-in-out;
   margin-right: 10px;
-  font-size: 13px;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #c4d7c3;
+  color: #ededed;
 }
 
 .Phonetic a:hover {
-  background-color: aqua;
-  color: aliceblue;
+  background-color: #ededed;
+  color: #c4d7c3;
 }
 
 .Phonetic {
