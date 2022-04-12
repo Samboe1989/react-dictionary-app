@@ -18,11 +18,12 @@ export default function App() {
             This project was coded by Samantha Boersma and is
             <a
               class="bottomlink"
-              href="https://github.com/Samboe1989/SheCodes-responsive-final-project"
+              href="https://github.com/Samboe1989/react-dictionary-app"
               target="_blank"
               title="Github page"
+              rel="noreferrer"
             >
-              {""} open-Sourced on GitHub
+              &nbsp;open-Sourced on GitHub
             </a>
           </p>
         </footer>

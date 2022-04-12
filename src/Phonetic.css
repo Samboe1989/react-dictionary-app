@@ -7,14 +7,15 @@
   margin-right: 10px;
   font-size: 15px;
   font-weight: bold;
-  background-color: #c4d7c3;
+  background-color: #fee5c7;
   color: black;
-  border: 1px solid #938e89;
+  border: 1px solid #8d8d8c;
 }
 
 .Phonetic a:hover {
-  background-color: #ededed;
-  color: #c4d7c3;
+  background-color: #dde5cd;
+  border: 1px solid #8d8d8c;
+  color: black;
 }
 
 .Phonetic {
