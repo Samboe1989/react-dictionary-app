@@ -24,9 +24,13 @@
   color: black;
   border: 1px solid #ddd;
   transition: all 150ms ease-in-out;
+  font-weight: bold;
+  border-radius: 20px;
+  border: 1px solid #938e89;
 }
 
 .searchButton:hover {
   background-color: #ededed;
-  border: 1px solid #c4d7c3;
+  border: 1px solid #938e89;
+  color: #c4d7c3;
 }

@@ -13,6 +13,19 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
+        <footer>
+          <p>
+            This project was coded by Samantha Boersma and is
+            <a
+              class="bottomlink"
+              href="https://github.com/Samboe1989/SheCodes-responsive-final-project"
+              target="_blank"
+              title="Github page"
+            >
+              {""} open-Sourced on GitHub
+            </a>
+          </p>
+        </footer>
       </div>
     </div>
   );
